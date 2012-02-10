@@ -1,5 +1,8 @@
 <?php
 
+   /**
+    * some doc block
+    */
    if (0) {
       var_export("not here");
    } else {
