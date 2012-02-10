@@ -1,7 +1,7 @@
 <?php
 
    /**
-    * some doc block
+    * some doc block - addition
     */
    if (0) {
       var_export("not here");
